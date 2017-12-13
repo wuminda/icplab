@@ -1,12 +1,48 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2017-12-12T19:00:07.635049952-08:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://wuminda.github.io/icplab/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2017-12-12T18:27:01.97915511-08:00
+    created: 2017-12-12T19:00:07.635409587-08:00
     description: A Helm chart for Kubernetes
     digest: 552778cca5df4a0b00b9b91943d0d2127e702a061b4519b56391fa5df834c515
     name: notificationchart
     urls:
     - https://wuminda.github.io/icplab/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2017-12-12T18:27:01.976268311-08:00
+  portfoliochart:
+  - apiVersion: v1
+    created: 2017-12-12T19:00:07.636057572-08:00
+    description: A Helm chart for Kubernetes
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
+    name: portfoliochart
+    urls:
+    - https://wuminda.github.io/icplab/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2017-12-12T19:00:07.636420544-08:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://wuminda.github.io/icplab/stockquotechart-0.1.0.tgz
+    version: 0.1.0
+  traderchart:
+  - apiVersion: v1
+    created: 2017-12-12T19:00:07.637293021-08:00
+    description: A Helm chart for Kubernetes
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    name: traderchart
+    urls:
+    - https://wuminda.github.io/icplab/traderchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-12-12T19:00:07.634268998-08:00
